@@ -7,7 +7,7 @@ I am a final-year ECE student passionate about building intelligent systems that
 My interests lie in:
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Deep Learning & Neural Networks
-- 📖 Natural Language Processing
+- ⚙️ Backend Development
 - 👁️ Computer Vision
 - 🔬 Embedded AI & Edge Computing
 - 🐧 Linux 
