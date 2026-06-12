@@ -69,7 +69,6 @@ Experiments with BPE tokenization, embeddings, and language models.
 ## 🌱 Currently Learning
 
 - Large Language Models (LLMs)
-- Transformer Architecture
 - MLOps
 - Advanced Computer Vision
 - Embedded AI Optimization
