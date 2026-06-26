@@ -5,12 +5,10 @@
 I am a final-year ECE student passionate about building intelligent systems that bridge software and hardware.
 
 My interests lie in:
+- ⚙️ Software Engineering & Backend Development
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Deep Learning & Neural Networks
-- ⚙️ Backend Development
 - 👁️ Computer Vision
-- 🔬 Embedded AI & Edge Computing
-- 🐧 Linux 
 
 ---
 
@@ -34,6 +32,7 @@ My interests lie in:
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
