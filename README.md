@@ -1,4 +1,4 @@
-# Hi, I'm Darsh Bothra 👋
+# Hi, I'm Darsh 👋
 
 ### Exploring DeepTech | AI & Backend Enthusiast
 
